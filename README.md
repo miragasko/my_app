@@ -1,2 +1,2 @@
-# my_app
+# My App
 this is my new project
